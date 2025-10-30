@@ -137,7 +137,8 @@ public class pengeluaranApp {
                 break;
             } else {
                 System.out.println("Pilihan tidak valid!");
-
+                System.out.println("hii");
+                System.out.println("huhu");
             }
         }
     }
